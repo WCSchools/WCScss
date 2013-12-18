@@ -80,6 +80,8 @@ transition:color .2s ease-out, background 2s ease-in;}
 .tags a {color:gray;text-decoration:none;font-size:0.8em;font-family:'proxima-nova-1','proxima-nova-2';}
 .view-wcs-blog-archive {font-size:0.9em;font-family:'proxima-nova-1','proxima-nova-2';text-decoration:none;color:gray;}
 .footnote {vertical-align:top;font-size:0.4em;}
+.footnotes {font-size:0.8em;font-family:'proxima-nova-1','proxima-nova-2';line-height:1em;margin-left:1em;margin-right:1em;}
+.col-c .field-item .footnotes ol {background-color:#ffffff;}
 .reversefootnote {font-size:0.8em;font-family:'proxima-nova-1','proxima-nova-2',Helvetica,sans-serif;}
 .stack-prefooter .box {margin-top:-1em;}
 .stack-prefooter h2 {color:white;}
