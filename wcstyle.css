@@ -9,7 +9,7 @@ code {font-family:'Source Code Pro',monospace;font-size:0.95em;}
 pre {margin:2em 17.4em 0 3.4em;padding-left:1em;}
 body {background-color:#6C859C;background-image:none;}
 ul li {font-weight:400;font-family:'proxima-nova-1','proxima-nova-2',sans-serif;}
-blockquote {padding:1em;font-style:italic;font-size:1.1em;font-family:'proxima-nova-1','proxima-nova-2',Georgia,serif;margin:0 6em 0 2em;}
+blockquote {padding:1em;font-style:italic;font-size:0.9em;font-family:'proxima-nova-1','proxima-nova-2',Georgia,serif;margin:0 6em 0 2em;}
 cite {font-variant:small-caps;font-size:1.15em;}
 a {padding-right:0.1em;padding-left:0.1em;color:#268bd2; text-decoration:none;
 -webkit-transition:color .2s ease-out, background 2s ease-in;
@@ -63,7 +63,7 @@ transition:color .2s ease-out, background 2s ease-in;}
 .col-c .pane {margin:0 3em 0 3em;}
 .col-c .field-name-body .field-label {display:none;}
 .col-c .media-image {box-shadow: 0.25em 0.5em 0.25em #919191;}
-.col-c ul {margin:2em 2em 0 2.8em;}
+.col-c ul {margin:2em 0 0 2.8em;}
 .col-c ul li {font-size:1em;font-family:'proxima-nova-1','proxima-nova-2';line-height:1.4em;padding-bottom:0.8em;margin-left:1em;margin-right:1em;}
 .col-c ol li {font-size:1em;font-family:'proxima-nova-1','proxima-nova-2';line-height:1.4em;padding-bottom:0.8em;margin-left:1em;margin-right:1em;}
 .col-c tbody {font-family:'proxima-nova-1','proxima-nova-2';}
